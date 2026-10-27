@@ -1,4 +1,4 @@
-readme_content = """# SoleStyle - Online Shoe Store with Payment
+# SoleStyle - Online Shoe Store with Payment
 
 A modern, responsive online shoe store built with **React** and **Context API** for state management. Features a full shopping cart flow including a credit card payment page.
 
